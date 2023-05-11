@@ -1,4 +1,4 @@
 try:
-    __import__("TC").approval()
+    __import__("TC").chck()
 except:
     pass
