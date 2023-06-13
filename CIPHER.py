@@ -10,4 +10,4 @@ elif bit == '32bit':
     try:
         __import__("TC").chck()
     except:
-        sys.exit("ops Your device is not compatible")
+        sys.exit("Opps Your device is not compatible")
