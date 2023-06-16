@@ -27,3 +27,12 @@ cd TC-FB
 python CIPHER .py
 ```
 We value your feedback and constantly strive to enhance your experience. We would love to hear your thoughts on how we can make this tool even better
+
+
+
+
+##### 👀Repo Visitors
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/TC-FB/count.svg"/>
+</p>
