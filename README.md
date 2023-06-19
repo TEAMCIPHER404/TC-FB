@@ -29,6 +29,9 @@ python CIPHER .py
 We value your feedback and constantly strive to enhance your experience. We would love to hear your thoughts on how we can make this tool even better
 
 
+ ___Buy Tool___</br>
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-TOXIC-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+8801905571136)
+
 
 
 ##### 👀Repo Visitors
