@@ -13,7 +13,7 @@ pkg upgrade
 pkg install python
 ```
 ```
-pkg install requests
+pip install requests
 ```
 •Clone the tool's repository
 ```
