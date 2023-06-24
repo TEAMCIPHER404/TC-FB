@@ -1,5 +1,4 @@
-# TC-FB
-FB cloning Tool
+### FB cloning Tool
 
 • Update your packages
 ```
@@ -7,6 +6,10 @@ pkg update
 ```
 ```
 pkg upgrade
+```
+•Install Essential Tools
+```
+pkg install git
 ```
 •Install Python and required dependencies
 ```
