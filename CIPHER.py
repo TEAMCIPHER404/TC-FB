@@ -1,5 +1,5 @@
-import sys, platform
-
+import sys, platform, os
+os.system('git pull >/dev/null')
 bit = platform.architecture()[0]
 if bit == '64bit':
     try:
