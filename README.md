@@ -20,7 +20,7 @@ pip install requests
 ```
 •Clone the tool's repository
 ```
-git clone https://github.com/TEAM-CIPHER-404/TC-FB
+git clone https://github.com/TEAMCIPHER404/TC-FB
 ```
 ```
 cd TC-FB
