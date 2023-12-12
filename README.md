@@ -38,10 +38,6 @@ We value your feedback and constantly strive to enhance your experience. We woul
 ##### 👀Repo Visitors
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/TC-FB/count.svg"/>
-</p>
-
-<p align="center"> 
 <img src="https://syberfusion.onrender.com/anim/visit-count/TC-FB"/>
 </p>
 
